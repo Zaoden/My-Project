@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1482699157 source:c:\users\eva\desktop\c++ projects\citygame\main.cpp
+	<iostream>
+	"Empire.h"
+	"City.h"
+
+1482685983 source:c:\users\eva\desktop\c++ projects\citygame\src\city.cpp
+	"City.h"
+	"Empire.h"
+	<string>
+	<iostream>
+
+1482685983 c:\users\eva\desktop\c++ projects\citygame\include\city.h
+	<string>
+
+1482685983 source:c:\users\eva\desktop\c++ projects\citygame\src\empire.cpp
+	"Empire.h"
+	<iostream>
+
+1482686004 c:\users\eva\desktop\c++ projects\citygame\include\empire.h
+	"City.h"
+	<string>
+
