@@ -5,7 +5,8 @@
 class map_writer
 {
     public:
-        map_writer(); // constructor
+        int Map[10][10][1];
+        map_writer();
 
     protected:
 
