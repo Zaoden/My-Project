@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1483233610 source:c:\users\eva\desktop\c++ projects\economygame\main.cpp
+	<iostream>
+	"map_writer.h"
+
+1483233695 c:\users\eva\desktop\c++ projects\economygame\include\map_writer.h
+
+1483233695 source:c:\users\eva\desktop\c++ projects\economygame\src\map_writer.cpp
+	"map_writer.h"
+	<iostream>
+
+1483233741 source:c:\users\eva\desktop\c++ projects\economygame\src\base_pop.cpp
+	"base_pop.h"
+
+1483234081 c:\users\eva\desktop\c++ projects\economygame\include\base_pop.h
+	<string>
+
+1483233800 source:c:\users\eva\desktop\c++ projects\economygame\src\base_resource.cpp
+	"base_resource.h"
+
+1483233800 c:\users\eva\desktop\c++ projects\economygame\include\base_resource.h
+
